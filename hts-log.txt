@@ -1,0 +1,107 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 19 Mar 2025 23:17:15 at https://www.aprendekids.com/educacion2025 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.aprendekids.com/educacion2025 -O1 "C:\Mis lugares Web\clonacion" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:17:29	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.aprendekids.com/educacion2025)
+23:18:17	Error: 	"Not Found" (404) at link https://www.aprendekids.com/a (from https://connect.facebook.net/en_US/fbevents.js)
+23:18:17	Error: 	"Not Found" (404) at link https://www.aprendekids.com/post (from https://connect.facebook.net/en_US/fbevents.js)
+23:18:17	Error: 	"Not Found" (404) at link https://www.aprendekids.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/b.resolvedlink (from https://connect.facebook.net/en_US/fbevents.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/${e} (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/assets/images/videoplaceholderbg.png (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/${o.path} (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/${r.path} (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/window.location.href (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/${e.imagesrc} (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/assets/images/blog_post_list_image_placeholder.jpg (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/${e.path} (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/${e= (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/${m.path} (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/${c.path} (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/e.url,window.location.origin (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/e,t (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/e (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/t (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Error: 	"Not Found" (404) at link https://www.aprendekids.com/e,a(t (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:20	Warning: 	Moved Temporarily for https://www.aprendekids.com/PÅesmÄrovat na /?
+23:18:20	Warning: 	File has moved from https://www.aprendekids.com/PÅesmÄrovat na /? to https://www.aprendekids.com/p%c3%85%c2%99esm%c3%84%c2%9brovat%20na%20/
+23:18:20	Warning: 	Moved Temporarily for https://www.aprendekids.com/Omdiriger til /?
+23:18:20	Warning: 	File has moved from https://www.aprendekids.com/Omdiriger til /? to https://www.aprendekids.com/omdiriger%20til%20/
+23:18:20	Warning: 	Moved Temporarily for https://www.aprendekids.com/Weiterleiten an /?
+23:18:20	Warning: 	File has moved from https://www.aprendekids.com/Weiterleiten an /? to https://www.aprendekids.com/weiterleiten%20an%20/
+23:18:22	Error: 	"Error when decompressing" (-1) at link https://www.aprendekids.com/ÎÎ½Î±ÎºÎ±ÏÎµÏÎ¸ÏÎ½ÏÎ· ÏÏÎ¿ /? (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:22	Warning: 	Moved Temporarily for https://www.aprendekids.com/Redirect to /?
+23:18:22	Warning: 	File has moved from https://www.aprendekids.com/Redirect to /? to https://www.aprendekids.com/redirect%20to%20/
+23:18:22	Warning: 	Moved Temporarily for https://www.aprendekids.com/Redirigir a /?
+23:18:22	Warning: 	File has moved from https://www.aprendekids.com/Redirigir a /? to https://www.aprendekids.com/redirigir%20a%20/
+23:18:23	Warning: 	Moved Temporarily for https://www.aprendekids.com/Oups ! Une erreur est survenue :-/
+23:18:23	Warning: 	File has moved from https://www.aprendekids.com/Oups ! Une erreur est survenue :-/ to https://www.aprendekids.com/oups%20!%20une%20erreur%20est%20survenue%20:-/
+23:18:23	Warning: 	Moved Temporarily for https://www.aprendekids.com/Rediriger vers /?
+23:18:23	Warning: 	File has moved from https://www.aprendekids.com/Rediriger vers /? to https://www.aprendekids.com/rediriger%20vers%20/
+23:18:24	Error: 	"Error when decompressing" (-1) at link https://www.aprendekids.com/à¤°à¤¿à¤¡à¤¾à¤¯à¤°à¥à¤à¥à¤ à¤à¤°à¥à¤ /? (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:24	Error: 	"Error when decompressing" (-1) at link https://www.aprendekids.com/ÃtirÃ¡nyÃ­tÃ¡s ide: /? (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:24	Warning: 	Moved Temporarily for https://www.aprendekids.com/Dialihkan ke /?
+23:18:24	Warning: 	File has moved from https://www.aprendekids.com/Dialihkan ke /? to https://www.aprendekids.com/dialihkan%20ke%20/
+23:18:24	Warning: 	Moved Temporarily for https://www.aprendekids.com/Reindirizza a /?
+23:18:24	Warning: 	File has moved from https://www.aprendekids.com/Reindirizza a /? to https://www.aprendekids.com/reindirizza%20a%20/
+23:18:25	Error: 	"Not Found" (404) at link https://www.aprendekids.com/doorverwijzen naar /? (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:25	Warning: 	Moved Temporarily for https://www.aprendekids.com/Omdirigere til /?
+23:18:25	Warning: 	File has moved from https://www.aprendekids.com/Omdirigere til /? to https://www.aprendekids.com/omdirigere%20til%20/
+23:18:25	Warning: 	Moved Temporarily for https://www.aprendekids.com/PrzekierowaÄ do /?
+23:18:25	Warning: 	File has moved from https://www.aprendekids.com/PrzekierowaÄ do /? to https://www.aprendekids.com/przekierowa%c3%84%c2%87%20do%20/
+23:18:25	Warning: 	Moved Temporarily for https://www.aprendekids.com/Redirecionar para /?
+23:18:25	Warning: 	File has moved from https://www.aprendekids.com/Redirecionar para /? to https://www.aprendekids.com/redirecionar%20para%20/
+23:18:26	Warning: 	Moved Temporarily for https://www.aprendekids.com/RedirecÈioneazÄ cÄtre /?
+23:18:26	Warning: 	File has moved from https://www.aprendekids.com/RedirecÈioneazÄ cÄtre /? to https://www.aprendekids.com/redirec%c3%88%c2%9bioneaz%c3%84%c2%83%20c%c3%84%c2%83tre%20/
+23:18:26	Error: 	"Error when decompressing" (-1) at link https://www.aprendekids.com/ÐÐµÑÐµÐ½Ð°Ð¿ÑÐ°Ð²Ð¸ÑÑ Ð½Ð° /? (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:26	Warning: 	Moved Temporarily for https://www.aprendekids.com/PresmerovaÅ¥ na /?
+23:18:26	Warning: 	File has moved from https://www.aprendekids.com/PresmerovaÅ¥ na /? to https://www.aprendekids.com/presmerova%c3%85%c2%a5%20na%20/
+23:18:26	Warning: 	Moved Temporarily for https://www.aprendekids.com/Preusmeri na /?
+23:18:26	Warning: 	File has moved from https://www.aprendekids.com/Preusmeri na /? to https://www.aprendekids.com/preusmeri%20na%20/
+23:18:27	Warning: 	Moved Temporarily for https://www.aprendekids.com/Ridrejto te /?
+23:18:27	Warning: 	File has moved from https://www.aprendekids.com/Ridrejto te /? to https://www.aprendekids.com/ridrejto%20te%20/
+23:18:27	Error: 	"Error when decompressing" (-1) at link https://www.aprendekids.com/ÐÑÐµÑÑÐ¼ÐµÑÐ¸ Ð½Ð° /? (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:27	Warning: 	Moved Temporarily for https://www.aprendekids.com/Omdirigera till /?
+23:18:27	Warning: 	File has moved from https://www.aprendekids.com/Omdirigera till /? to https://www.aprendekids.com/omdirigera%20till%20/
+23:18:27	Error: 	"Error when decompressing" (-1) at link https://www.aprendekids.com/à¹à¸à¸¥à¸µà¹à¸¢à¸à¹à¸ªà¹à¸à¸à¸²à¸à¹à¸à¸à¸µà¹ /? (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:27	Error: 	"Error when decompressing" (-1) at link https://www.aprendekids.com/yÃ¶nlendirilsin mi /? (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:27	Error: 	"Error when decompressing" (-1) at link https://www.aprendekids.com/ÐÐµÑÐµÑÐ¿ÑÑÐ¼ÑÐ²Ð°ÑÐ¸ Ð½Ð° /? (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:27	Error: 	"Error when decompressing" (-1) at link https://www.aprendekids.com/éå®åå°/? (from https://d33vglzdi1uj1c.cloudfront.net/page.3e6d29427b1c139ac336.js)
+23:18:27	Error: 	"Not Found" (404) at link https://www.aprendekids.com/jsdom/ (from https://d33vglzdi1uj1c.cloudfront.net/vendors~page.2db090b28d043ba813c7.js)
+23:18:27	Error: 	"Not Found" (404) at link https://www.aprendekids.com/failed%20to%20load%20mercadopago.js (from https://d33vglzdi1uj1c.cloudfront.net/vendors~page.2db090b28d043ba813c7.js)
+23:18:27	Error: 	"Not Found" (404) at link https://www.aprendekids.com/js/client.min.js (from https://d33vglzdi1uj1c.cloudfront.net/vendors~page.2db090b28d043ba813c7.js)
+23:18:27	Error: 	"Not Found" (404) at link https://www.aprendekids.com/js/paypal-checkout.min.js (from https://d33vglzdi1uj1c.cloudfront.net/vendors~page.2db090b28d043ba813c7.js)
+23:18:27	Warning: 	Moved Temporarily for https://www.aprendekids.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+23:18:27	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.aprendekids.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ and https://www.aprendekids.com/abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz0123456789+/
+23:18:27	Warning: 	Warning moved treated for https://www.aprendekids.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (real one is https://www.aprendekids.com/abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz0123456789+/)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/pÅesmÄrovat na / (from https://www.aprendekids.com/PÅesmÄrovat na /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/omdiriger til / (from https://www.aprendekids.com/Omdiriger til /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/weiterleiten an / (from https://www.aprendekids.com/Weiterleiten an /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/redirect to / (from https://www.aprendekids.com/Redirect to /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/redirigir a / (from https://www.aprendekids.com/Redirigir a /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/oups %21 une erreur est survenue :-/ (from https://www.aprendekids.com/Oups ! Une erreur est survenue :-/)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/rediriger vers / (from https://www.aprendekids.com/Rediriger vers /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/dialihkan ke / (from https://www.aprendekids.com/Dialihkan ke /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/reindirizza a / (from https://www.aprendekids.com/Reindirizza a /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/omdirigere til / (from https://www.aprendekids.com/Omdirigere til /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/przekierowaÄ do / (from https://www.aprendekids.com/PrzekierowaÄ do /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/redirecionar para / (from https://www.aprendekids.com/Redirecionar para /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/redirecÈioneazÄ cÄtre / (from https://www.aprendekids.com/RedirecÈioneazÄ cÄtre /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/presmerovaÅ¥ na / (from https://www.aprendekids.com/PresmerovaÅ¥ na /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/preusmeri na / (from https://www.aprendekids.com/Preusmeri na /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/ridrejto te / (from https://www.aprendekids.com/Ridrejto te /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/omdirigera till / (from https://www.aprendekids.com/Omdirigera till /?)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://d33vglzdi1uj1c.cloudfront.net/vendors~page.2db090b28d043ba813c7.js)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/161/60a777c6b6c23_60a777c6b6c22_favicon.png (from https://www.aprendekids.com/not-found)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/${p.path} (from https://d6r6gym8ueyux.cloudfront.net/simplePage.639371413ec22170b2c3.js)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/e,i(t (from https://d6r6gym8ueyux.cloudfront.net/simplePage.639371413ec22170b2c3.js)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/${l.path} (from https://d6r6gym8ueyux.cloudfront.net/simplePage.639371413ec22170b2c3.js)
+23:18:36	Error: 	"Not Found" (404) at link https://www.aprendekids.com/${i} (from https://d6r6gym8ueyux.cloudfront.net/vendors~simplePage.29c1e2317e8e6d57e523.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 21 seconds : 138 links scanned, 60 files written (14598077 bytes overall) [6998970 bytes received at 86407 bytes/sec], 24034916 bytes transferred using HTTP compression in 80 files, ratio 19%, 2.9 requests per connection
+(59 errors, 37 warnings, 0 messages)

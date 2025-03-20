@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.aprendekids.com	TRUE	/	FALSE	1999999999	v	01JPRWA4P4SHCDAC9YC087E7VY
+www.aprendekids.com	TRUE	/	FALSE	1999999999	samesite	lax
+.embed.ly	TRUE	/	FALSE	1999999999	_cfuvid	Ru10t3vMQ_xjAXS_FrLiRANNZHQBVOlzYANZrTnqkKU-1742444317006-0.0.1.1-604800000
+cdn.embed.ly	TRUE	/	FALSE	1999999999	SameSite	None
+
